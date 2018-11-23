@@ -1,0 +1,13 @@
+
+.toast {
+    opacity: 1 !important;
+}
+.err-margin{
+    margin-bottom: 30px;
+}
+.myNav{
+    margin-bottom: 30px;
+}
+.myNav ul li i{
+    margin-left: 13px;
+}
